@@ -1,30 +1,33 @@
-# 👋 Salut, moi c’est Soumaya
+# 👋 Hi, I’m Soumaya
 
-Étudiante à Holberton School, en train d’apprendre le métier de développeur logiciel pas à pas.
+I’m a student at Holberton School, learning the craft of software development step by step.
 
-Je suis encore au début du parcours, mais j’aime comprendre pourquoi le code marche, pas juste le faire marcher. J’avance tranquillement, en faisant des erreurs, en les corrigeant, et en progressant projet après projet.
+I’m still at the beginning of my journey, but I like to understand why code works, not just make it work. I move forward at my own pace, making mistakes, fixing them, and improving project by project.
 
-🧠 Ce que j’apprends en ce moment
+🧠 What I’m currently learning
 
-Python (programmation orientée objet, héritage, classes)
-C (bases, logique, mémoire)
-Linux / ligne de commande
-Lire, comprendre et corriger du code existant
+Python (object-oriented programming, inheritance, classes)
 
-🛠️ Outils & technos
+C (basics, logic, memory)
 
-Langages : Python, C, JavaScript
-Outils : Git, GitHub, VS Code
+Linux / command line
 
-📂 À propos de mes projets
+Reading, understanding, and fixing existing code
 
-La majorité de mes dépôts viennent de ma formation à Holberton School.
-Chaque projet est là pour m’apprendre quelque chose de précis (logique, rigueur, OOP, etc.).
+🛠️ Tools & Technologies
 
-Ce n’est pas parfait, mais c’est honnête, et ça reflète mon apprentissage.
+Languages: Python, C, JavaScript
 
-🌱 Objectif
+Tools: Git, GitHub, VS Code
 
-Devenir un développeuse solide, avec de bonnes bases, capable de comprendre ce qu’elle écrit et d’apprendre en continu.
+📂 About my projects
 
-Merci d’avoir pris le temps de passer par ici 🙂
+Most of my repositories come from my Holberton School training. Each project is designed to teach me something specific (logic, rigor, OOP, etc.).
+
+They’re not perfect, but they’re honest and reflect my learning journey.
+
+🌱 Goal
+
+To become a solid full-stack developer, with strong foundations, able to understand the code I write, and continuously learn new things.
+
+Thanks for taking the time to check out my profile 🙂
